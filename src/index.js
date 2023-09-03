@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Login from './components/login';
 import  { AuthProvider }  from './components/AuthProvider';
-import Dashboard from './components/dashboard';
+import Dashboard from './components/Dashboard';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
